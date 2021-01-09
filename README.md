@@ -1,4 +1,4 @@
-<h2 align="center"> Hey there 👋, I'm Vamshi Krishna Madhavan !!</h2>
+<h2 align="center"> Hey there 👋, I'm Vamshi Krishna !!</h2>
 <br>
 
 
@@ -19,7 +19,7 @@
 
 **Talking about Personal Stuff:**
 
-- 🌱 Currently working on Data Structure and Algorithms.
+- 🌱 Practicing Data Structure and Algorithms.
 - 💬 Ask me about anything, I am happy to help.
 - 👯 I’m looking to collaborate.
 - 🤔  I’m looking for help with insights on my work.
