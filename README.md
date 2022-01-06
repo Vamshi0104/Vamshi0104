@@ -19,7 +19,7 @@
 <img align="center" height="250" width="350" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
   </h2>
 <br>
-<h4 align="center">Talking about Personal Stuff:</h4>
+<h3 align="center">Talking about Personal Stuff:</h3>
   <p style="text-align: center;">
 <li align="center">🌱 Practicing Data Structure and Algorithms.</li>
 <li align="center"> 💬 Ask me about anything, I am happy to help.</li>
