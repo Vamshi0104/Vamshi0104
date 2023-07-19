@@ -27,14 +27,6 @@
 <li align="center"> 🤔  I’m looking for help with insights on my work.</li>
 <li align="center"> 😄 Pronouns: He/His/Him</li>
 </p>
-<br><br>
-
-<a align="center" href="https://github.com/Vamshi0104">
-    <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vamshi0104&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
-    </p>
-</a>
-
 <br>
 <h2 align="center"><i>Portfolio</i></h2>
   <h2 align="center">
